@@ -1,0 +1,29 @@
+{
+  "name": "simple-args",
+  "version": "1.0.0",
+  "description": "This module serialize the args of your command line",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:willianjedai/simple-args.git"
+  },
+  "keywords": [
+    "argv",
+    "node",
+    "process.argv",
+    "command",
+    "args",
+    "line",
+    "args",
+    "args"
+  ],
+  "author": "Willian R. Sabião",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willianjedai/simple-args/issues"
+  },
+  "homepage": "https://github.com/willianjedai/simple-args"
+}
