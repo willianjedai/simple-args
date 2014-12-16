@@ -1,6 +1,6 @@
 {
   "name": "simple-args",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This module serialize the args of your command line",
   "main": "index.js",
   "scripts": {
